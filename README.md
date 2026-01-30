@@ -40,6 +40,7 @@ graph LR
     C -- Write --> I[(InfluxDB)]
     I -. Read .-> A[🌐 REST API]
     A -- Fetch --> D[💻 Web Dashboard]
+```
 
 🚀 Installation Rapide (Quick Start)
 
