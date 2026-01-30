@@ -1,11 +1,11 @@
-# 🚀 Nexiros Monitor
+# 🚀 Docker Kafka Monitoring
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
-**Nexiros Monitor** est une solution complète de surveillance système (Hardware Monitoring) basée sur une architecture microservices distribuée et résiliente.
+**Docker Kafka Monitor** est une solution complète de surveillance système (Hardware Monitoring) basée sur une architecture microservices distribuée et résiliente.
 
 Contrairement aux solutions monolithiques classiques, ce projet utilise un **bus d'événements (Apache Kafka)** pour découpler totalement la collecte des métriques de leur analyse, garantissant une haute performance et une tolérance aux pannes.
 
